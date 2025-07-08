@@ -1,0 +1,21 @@
+meal_id,title,category,price,rating,restaurant
+1,Texas Smoked Brisket,BBQ,63.71,4.6,Restaurant A
+2,Vegan Lasagna,Cajun,115.56,4.1,Restaurant B
+3,NY Cheesecake,Southern,95.88,4.3,Restaurant C
+4,Maine Lobster Roll,Dessert,83.88,4.4,Restaurant D
+5,Chicago Deep Dish Pizza,Pizza,44.04,4.5,Restaurant E
+6,Korean BBQ Short Ribs,Bakery,44.04,4.8,Restaurant F
+7,Nashville Hot Chicken,Southern,35.23,4.2,Restaurant G
+8,Gluten-Free Brownies,Korean,107.96,4.5,Restaurant H
+9,Louisiana Gumbo,Dessert,84.1,4.6,Restaurant I
+10,Buffalo Wings,Dessert,93.73,4.0,Restaurant J
+11,Ramen Kit,Vegan,31.85,4.6,Restaurant K
+12,Tiramisu,Vegan,117.29,4.2,Restaurant L
+13,Sourdough Bread,Cajun,104.92,4.1,Restaurant M
+14,Bagel Sampler,Bakery,49.11,4.9,Restaurant N
+15,Clam Chowder,Bakery,46.36,5.0,Restaurant O
+16,Pulled Pork Sandwich,Southern,46.51,4.8,Restaurant P
+17,Dim Sum Box,BBQ,57.38,4.3,Restaurant Q
+18,Biryani Feast,Bakery,77.23,4.1,Restaurant R
+19,Taco Fiesta,Cajun,68.88,4.7,Restaurant S
+20,Falafel Platter,Dessert,56.21,4.4,Restaurant T
